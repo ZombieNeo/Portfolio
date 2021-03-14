@@ -1,0 +1,58 @@
+body,td,th {
+	color: #FFF;
+}
+body{ background-color:black;
+      padding: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border: 5px solid #2b2b2a;
+}
+h3 {
+text-decoration: underline;
+}
+h1 {
+text-decoration: underline;
+}
+
+.navbar{
+	opacity: 0.6;
+  border: 1px outset red;
+  background-color: 	red;
+  text-align: left;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+p {
+  width: auto;
+  height: auto;
+.dontreactimg{
+	width: auto;
+	height: auto;
+}
+
+video {
+	center
+}
+.div{
+	height: auto;
+	display: inline-block;
+	float: left;
+
+}
+.div1{
+	height: auto;
+	display: inline-block;
+	float: right;
+
+}
+
+}
+</style>
