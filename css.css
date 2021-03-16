@@ -47,14 +47,17 @@ video {
 	float: left;
 
 }
-.div1{
+.divlogorand{
 	height: auto;
 	display: inline-block;
 	float: right;
 
 }
 
+.img:hover{
 
+	transition:opacity 0.5s ease-in-out;
+}
 
 
 }
